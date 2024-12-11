@@ -6,5 +6,3 @@ The assignment is described [here](https://docs.google.com/document/d/1FVYEnXD62
 This repository also contains a starter file for the code
 you need to write for Lab 2:
 - `lab2.py`: Put your code in this file (for all questions).
-
-# csci-134-lab-2
